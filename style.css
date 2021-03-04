@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding-top: 800px
+}
+#welcome{
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    z-index: 9;
+    color: aqua;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    display: table;
+    opacity: 0.83;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#ffcce6 0%, #cc0066 100%);
+    }
+.hero{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    }
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: fantasy;
+    font-weight: 300;
+    }
+#name{
+    
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: monospace;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: serif;
+    margin: auto;
+}
+#bio{
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+    }
+.profile{
+    width: 251px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 251px;
+    
+    
+}
+.menu{
+    list-style: none;
+    font-family:inherit;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color: aqua;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+body{
+    text-align: center;
+      
+}
+.links:hover{
+    background-color: red;
+    
+}
+
+        
+        
+        
+      
+        
+    
+        
+        
